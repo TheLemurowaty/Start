@@ -1,0 +1,132 @@
+html, body{
+    height: 100%;
+    width: 100%;
+    padding: 0;
+    margin: 0;
+}
+nav ul li{
+    list-style-type: none;
+    float: right;
+    
+}
+
+nav ul li a{
+    display: block;
+    color: black;
+    text-align: center;
+    text-decoration: none;
+    border: black 2px solid;
+    margin: 15px;
+    padding: 12px;
+    background-color: rgba(194, 101, 47, 0.863);
+    font-size: 18px;
+    font-weight: bold;
+    border-radius: 10%;
+}
+nav{
+    height: 70px;
+    background-color: #303030;
+    
+    
+}
+nav ul{
+padding: 0;
+margin: 0;
+}
+.main{
+    width: 100%;
+    max-width: 1024px;
+    margin: auto;
+    background-color: rgba(255, 255, 255, 0.6);
+    height: 100%;
+}
+.onas{
+    width: 100%;
+}
+.img{
+    height: 400px;
+}
+.lewa{
+    width: 47%;
+    margin: 1%;
+    border: 1% black solid;
+    font-size: 34px;
+    float: left;
+    
+    
+}
+.prawa{
+    width: 47%;
+    margin: 1%;
+    border: 1% black solid;
+    float: left;
+    height: 50%;
+    
+    
+}
+.container{
+    background-image: url(grafika/tlo.jpg);
+    width: 100%;
+    margin-top: 0;
+    margin-bottom: 0;
+
+}
+h2{
+    margin: 0;
+    font-size: 30px;
+    margin-left: 10px;
+    
+    
+
+}
+img{
+    width: 100%;
+    height: 100%;
+}
+.item{
+    height: 200px;
+    width: 150px;
+    
+    float: left;
+    margin: 50px;
+    padding-bottom: 50px;
+}
+p{
+    font-size: 23px;
+    text-align: center;
+    font-weight: bold;
+}
+.dane{
+    font-size: 30px;
+}
+.kontakt{
+    width: 100%;
+    margin-top: 50px;
+}
+.yt{
+    width: 100%;
+}
+.krzywo{
+    font-style: italic;
+}
+nav img{
+    height: 40px;
+    width: 60px;
+}
+.logo{
+    background-color: #303030;
+    font-size: 70px;
+    font-family: 'Pushster', cursive;
+    text-align: center;
+    color: crimson;
+}
+h4{
+    font-size: 16px;
+    background-color: black;
+    color: white;
+    text-align: center;
+    margin: 0;
+}
+
+
+
